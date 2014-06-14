@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=SC-App
+Exec=SC-App
+Name=SC-App
+# translation example:
+# your app name in German locale (de)
+Name[de]=SC-App
+
