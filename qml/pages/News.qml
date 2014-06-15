@@ -1,6 +1,7 @@
 import QtQuick 2.0
 import Sailfish.Silica 1.0
 
+// Hardcoded right now: Content of this page will come dynamically from the server
 
 Page {
     id: news
