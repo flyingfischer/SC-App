@@ -39,7 +39,8 @@ OTHER_FILES += qml/SC-App.qml \
     qml/img/ampel_gruen.png \
     qml/img/ampel_gelb.png \
     qml/img/ampel_rot.png \
-    qml/js/stateless.js
+    qml/js/stateless.js \
+    qml/pages/SearchContent.qml
 
 # to disable building translations every time, comment out the
 # following CONFIG line

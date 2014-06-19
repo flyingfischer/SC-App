@@ -151,6 +151,28 @@
     </message>
 </context>
 <context>
+    <name>RSSReader</name>
+    <message>
+        <source>To the top</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SearchContent</name>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search terms</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SearchEZB</name>
     <message>
         <source>Search</source>

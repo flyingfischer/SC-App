@@ -3,7 +3,7 @@ import Sailfish.Silica 1.0
 
 
 Page {
-    id: firstPage
+    id: mainPage
 
     // To enable PullDownMenu, place our content in a SilicaFlickable
     SilicaFlickable {
@@ -29,7 +29,7 @@ Page {
         Column {
             id: column
 
-            width: firstPage.width
+            width: mainPage.width
             spacing: Theme.paddingLarge
             PageHeader {
                 title: qsTr("Swissconsortium.ch")
